@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "DysPIA"]
+	path = DysPIA
+	url = https://github.com/lemonwang2020/dyspia
+	shallow = true
+	registered = true
