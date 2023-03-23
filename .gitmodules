@@ -8,3 +8,8 @@
 	url = https://github.com/lemonwang2020/dyspia
 	shallow = true
 	registered = true
+[submodule "DysPIAData"]
+	path = DysPIAData
+	url = https://github.com/cran/DysPIAData
+	shallow = true
+	registered = true
